@@ -1,4 +1,5 @@
 ## Z.L
+戻らない時だけが 何故輝いては
 ![e601cb89c7c16095f26315b7f20c471b](https://github.com/zlrkw11/zlrkw11/assets/64724157/47d1e52e-45d0-477e-b029-bd11fa6f984c)
 
 <!--
