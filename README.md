@@ -1,6 +1,6 @@
 ## Z.L
 ![e601cb89c7c16095f26315b7f20c471b](https://github.com/zlrkw11/zlrkw11/assets/64724157/47d1e52e-45d0-477e-b029-bd11fa6f984c)
-
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=in6odick8eugkoe0bjwsywg5s&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 戻らない時だけが 何故輝いては
 <!--
 **zlrkw11/zlrkw11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
