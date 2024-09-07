@@ -1,4 +1,3 @@
-possibly asleep
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=zlrkw11&theme=dark&hide_border=true&card_width=600&card_height=250&background=75%2C000000%2CEBEBEB&ring=EBEBEB&currStreakLabel=EBEBEB)](https://git.io/streak-stats)
 
