@@ -4,13 +4,14 @@ const Ray = {
   name: "Ray Zhao",
   title: "Fullstack Dev | Front-end & Algorithm Focused",
   motto: "Determined amidst indifference.",
-  skills: [
-    "React", "Next.js", "TailwindCSS", "MongoDB",
-    "Firebase", "Flask", "Algorithms", "System Design"
+  frameworks: [
+    "react", "next.js", "tailwindCSS",
   ],
-  languages: ["python", "typescript", "javascript"]
-  tools: ["VS Code", "Zed", "IntelliJ IDEA", "Git"],
-  philosophy: "Efficiency, Precision, Innovation"
+  languages: ["python", "typescript", "javascript", "java", "html", "css", "c++"],
+  skills: ["algorithms", "functional_components"]
+  tools: ["vscode", "zed", "git"],
+  databases: ["mongodb", "firebase"],
+  philosophy: "efficiency, precision, innovation"
 };
 
 export default Ray;
