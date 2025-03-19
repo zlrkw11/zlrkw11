@@ -1,8 +1,35 @@
+# Ray Zhao
+```tsx
+const Ray = {
+  name: "Ray Zhao",
+  title: "Fullstack Dev | Front-end & Algorithm Focused",
+  motto: "Determined amidst indifference.",
+  skills: [
+    "React", "Next.js", "TailwindCSS", "MongoDB",
+    "Firebase", "Flask", "Algorithms", "System Design"
+  ],
+  languages: ["python", "typescript", "javascript"]
+  tools: ["VS Code", "Zed", "IntelliJ IDEA", "Git"],
+  philosophy: "Efficiency, Precision, Innovation"
+};
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=zlrkw11&theme=dark&hide_border=true&card_width=600&card_height=250&background=75%2C000000%2CEBEBEB&ring=EBEBEB&currStreakLabel=EBEBEB)](https://git.io/streak-stats)
+export default Ray;
+```
+## About Me
+A sharp-minded and independent web developer who thrives on building efficient and aesthetic applications. Whether it's crafting sleek front-end experiences or solving intricate algorithmic problems, I aim for execution at its finest.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zlrkw11&layout=compact)](https://github.com/zlrkw11/github-readme-stats)
-
-![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![image](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-
-
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
+[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
+[![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
+[![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)](#)
+[![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)](#)
+[![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
+[![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)](#)
+[![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)](#)
+[![Firebase](https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white)](#)
+[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
+[![Zed](https://img.shields.io/badge/Zed-white?logo=zedindustries&logoColor=084CCF)](#)
+[![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white)](#)
+[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
