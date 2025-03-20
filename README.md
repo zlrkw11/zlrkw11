@@ -17,7 +17,9 @@ const Ray = {
 export default Ray;
 ```
 ## About Me
-A sharp-minded and independent web developer who thrives on building efficient and aesthetic applications. Whether it's crafting sleek front-end experiences or solving intricate algorithmic problems, I aim for execution at its finest.
+> sharp minded\
+> driven\
+> passionate
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=zlrkw11)](https://git.io/streak-stats)
 
