@@ -17,9 +17,7 @@ const Ray = {
 export default Ray;
 ```
 ## About Me
-> sharp minded\
-> driven\
-> passionate
+> Determined admist indifference
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=zlrkw11)](https://git.io/streak-stats)
 
